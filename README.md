@@ -8,3 +8,4 @@ Needs to have a graphical means of data visualization and possibly a dashboard w
 Needs to auto log toolmaker off tool work at the end of shift to avoid errors in time reporting also, a means to change shift time to accomodate overtime schedules.
 Needs a user friendly GUI for Machine operators and Toolmakers with Dropdown and or Autocomplete lists for all or most of the data entered (to avoid long and protracted Data "Scrubbing" time.
 Need to be able to export data to a google sheet for analysis by individuals so it will need to be a part of the GUI and be exportable by date range and shift.
+May have additional needs that will be added in subsequent versions.
